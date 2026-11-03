@@ -1,0 +1,19 @@
+{
+  "name": "amplify-product-agent",
+  "version": "0.2.0",
+  "description": "Standard PM agent for the Amplify product team. Continuous-track skills for discovery, opportunity mapping, competitive and regulatory scans, strategy, prioritization, roadmap and metrics review. Product context from a Product Map and code docs, impact analysis, and a quarterly planning flow. Drafts to Confluence with PO approval.",
+  "author": {
+    "name": "Amplify Product Team"
+  },
+  "keywords": [
+    "product-management",
+    "discovery",
+    "opportunity-solution-tree",
+    "rice",
+    "roadmap",
+    "heart",
+    "impact-analysis",
+    "confluence",
+    "jira-service-management"
+  ]
+}
